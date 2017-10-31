@@ -16,6 +16,7 @@ import android.widget.MediaController;
 import android.widget.VideoView;
 
 //test comment  for github
+//test comment  for github by notepad
 
 public class MainActivity extends AppCompatActivity {
 
